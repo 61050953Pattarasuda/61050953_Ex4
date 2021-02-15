@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/src/java/controller/AddStudentController.java</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/src/java/controller/UpdateStudentController.java</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/web/confirm_update.jsp</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/web/show_student.jsp</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/src/java/controller/RemoveStudentController.java</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/web/confirm_remove.jsp</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/web/index.html</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/web/update_student.html</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/web/remove_student.html</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/src/java/controller/ConfirmUpdateController.java</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/src/java/controller/ConfirmRemoveController.java</file>
+            <file>file:/C:/Users/luksorn/Documents/NetBeansProjects/StudentSimpleWebApp/web/add_student.html</file>
+        </group>
+    </open-files>
+</project-private>
